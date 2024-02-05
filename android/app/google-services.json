@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123075893754",
+    "project_id": "aqua-store-20980",
+    "storage_bucket": "aqua-store-20980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123075893754:android:935fda68f89c5f44172c43",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123075893754-79fpc52p7fhr8ir6lb3631a80snuqsvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6b5_U4DUq32n0ynip_4KLu6ytHZTzHZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123075893754-79fpc52p7fhr8ir6lb3631a80snuqsvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
